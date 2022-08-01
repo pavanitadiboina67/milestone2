@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<style>
+ body{
+background-image:url('https://www.ehacking.net/wp-content/uploads/2020/11/ethical-hacking.jpg');
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<body>
+<h1 style="font-size:20px;color:white;text-align:right;">20NN1A04B9</h1>
+<h1 style="font-size:35px;color:white;text-align:center;">ABOUT CYBER SECURITY</h1>
+<p style="color:white;">
+<u><b>DEFINITION:</b></u> As digital transformation and hyper-convergence create unintended gateways to risks, vulnerabilities, attacks, and failures, a cyber resiliency strategy quicky becomes necessary for your business. A cyber resiliency strategy helps your business to reduce risks, financial impact and reputational damages.
+</p>
+<p style="color:white;">
+A successful cybersecurity approach has multiple layers of protection spread across the computers, networks, programs, or data that one intends to keep safe. In an organization, the people, processes, and technology must all complement one another to create an effective defense from cyber attacks. A unified threat management system can automate integrations across select Cisco Security products and accelerate key security operations functions: detection, investigation, and remediation.:
+</p>
+<ul style="color:white;">
+<li>In today’s connected world, everyone benefits from advanced cyberdefense programs. At an individual level, a cybersecurity attack can result in everything from identity theft, to extortion attempts, to the loss of important data like family photos. Everyone relies on critical infrastructure like power plants, hospitals, and financial service companies. Securing these and other organizations is essential to keeping our society functioning.</li>
+<li>Everyone also benefits from the work of cyberthreat researchers, like the team of 250 threat researchers at Talos, who investigate new and emerging threats and cyber attack strategies. They reveal new vulnerabilities, educate the public on the importance of cybersecurity, and strengthen open source tools. Their work makes the Internet safer for everyone.</li>
+</ul>
+
+<h2 style="color:white;"><u><b>Advantages:</b></u></h2>
+<ol style="color:white;">
+<li> Cybersecurity Can Protect Your Business.</li>
+<li> Cybersecurity Allows Employees to Work Safely.</li>
+<li> Cybersecurity Can Stop Your Website From Going Down.</li>
+</ol>
+<img src="https://www.todaytechnology.org/wp-content/uploads/2021/01/The-Advantages-of-Cyber-Security-Resilience.jpg" ait="resilience" width="200" height="125">
+<h2 style="color:white;"><u><b>Disdvantages:</b></u></h2>
+<ol style="color:white;">
+<li>Rules of the firewall are difficult to configure correctly..</li>
+<li>It is costly for the average.</li>
+<li>Incorrect firewalls rules block the user from accessing various services of the network.</li>
+</ol>
+<img src="https://th.bing.com/th/id/OIP.NAQTOmX2QGJe9WABSQHd1AHaE8?pid=ImgDet&rs=1" alt="hacker" width="200" height="100">
+
+
+</body>
+
+</html
